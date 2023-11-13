@@ -1,0 +1,5 @@
+{
+  "usuário": [
+    { "id": 1, "login": "fiap", "senha": "1234", "nome": "Nome - Usuário 1" }
+  ]
+}
